@@ -110,6 +110,12 @@ UI Note: This project uses Cabinet Grotesque. To build the project with the inte
 
 
 
+
+## 🗺️ Product Roadmap
+
+- [ZenMode Milestone 02 Product Requirements Document](docs/prd/zenmode-m02-prd.md)
+- [Milestone 02 Implementation Plan](docs/roadmap/milestone-02-implementation-plan.md)
+
 ## 💚 Support
 <p align="center"> Need help, feedback, or just want to say hi? </p> <p align="center"> 📩 <b>zenmode.help@gmail.com</b> </p> <p align="center"> Built with calm, care & clarity <br/> <span style="color:#00C700;">● ZenMode</span> </p>
 
